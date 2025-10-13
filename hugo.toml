@@ -1,8 +1,8 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
 # baseURL = "/"
-# baseURL = "https://evsedov.github.io/RED_CAT/" # for deploying in github
-baseURL = "https://redcatclubonline.ru" # for deploying in reg.ru
+baseURL = "https://evsedov.github.io/RED_CAT/" # for deploying in github
+# baseURL = "https://redcatclubonline.ru" # for deploying in reg.ru
 # Title of your website (required).
 title = "Онлайн-школа английского языка RED CAT"
 # Your theme name
